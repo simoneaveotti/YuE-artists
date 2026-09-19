@@ -1,0 +1,22 @@
+{
+  "artist": "Silent Ember",
+  "version": "v1",
+  "style": "English, rock band: electric guitar, bass, drums and expressive male lead vocal. Characterful modern production with strong dynamics, space and grit; alternative rock core open to raw, atmospheric and electronic textures",
+  "defaults": {
+    "cot": "full",
+    "language": "English"
+  },
+  "identity": {
+    "members": {
+      "Simone": "chitarra",
+      "Cristiano": "basso",
+      "Roberto": "batteria",
+      "Marco": "voce"
+    },
+    "core_lineup": ["chitarra", "basso", "batteria", "voce"],
+    "genre": "rock e tutto ciò che può derivarne, senza limiti",
+    "language": "English",
+    "production": "moderna, elaborata, character over cleanliness"
+  },
+  "operating_brief": "profiles/silent-ember/IDENTITY.md"
+}

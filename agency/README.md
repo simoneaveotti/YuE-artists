@@ -9,7 +9,8 @@ stays conflict-free.
 | Path | Purpose |
 | --- | --- |
 | `profiles/<artist>/profile.json` | Persistent artist/band identity: `style`, `version`, defaults |
-| `profiles/<artist>/notes.md` | Sound card: identity, evolution history, variation log |
+| `profiles/<artist>/IDENTITY.md` | Optional full operating brief/manifesto for the artist or band |
+| `profiles/<artist>/notes.md` | Sound card, usage, version history |
 | `agency/generate_from_profile.py` | Compose a request from a profile; record the profile used; optionally run `run_yue2.py` |
 | `agency/README.md` | This file: the local workflow |
 
