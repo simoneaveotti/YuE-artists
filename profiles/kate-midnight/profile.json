@@ -1,0 +1,16 @@
+{
+  "artist": "Kate Midnight",
+  "version": "v1",
+  "style": "English, warm piano pop, expressive female voice, acoustic piano, rounded bass and light drums, lyrical memorable melody, unhurried phrasing, 88 BPM",
+  "defaults": {
+    "cot": "full",
+    "language": "English"
+  },
+  "identity": {
+    "genre": "warm piano pop",
+    "voice_character": "expressive female vocal",
+    "instruments": ["acoustic piano", "rounded bass", "light drums"],
+    "tempo_bpm": 88,
+    "language": "English"
+  }
+}
